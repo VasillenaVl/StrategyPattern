@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\StategyPatternExercise\StategyPatternExercise\bin\Debug\netcoreapp3.1\StategyPatternExercise.exe
+C:\Users\Admin\Desktop\StategyPatternExercise\StategyPatternExercise\bin\Debug\netcoreapp3.1\StategyPatternExercise.deps.json
+C:\Users\Admin\Desktop\StategyPatternExercise\StategyPatternExercise\bin\Debug\netcoreapp3.1\StategyPatternExercise.runtimeconfig.json
+C:\Users\Admin\Desktop\StategyPatternExercise\StategyPatternExercise\bin\Debug\netcoreapp3.1\StategyPatternExercise.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\StategyPatternExercise\StategyPatternExercise\bin\Debug\netcoreapp3.1\StategyPatternExercise.dll
+C:\Users\Admin\Desktop\StategyPatternExercise\StategyPatternExercise\bin\Debug\netcoreapp3.1\StategyPatternExercise.pdb
+C:\Users\Admin\Desktop\StategyPatternExercise\StategyPatternExercise\obj\Debug\netcoreapp3.1\StategyPatternExercise.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\StategyPatternExercise\StategyPatternExercise\obj\Debug\netcoreapp3.1\StategyPatternExercise.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\StategyPatternExercise\StategyPatternExercise\obj\Debug\netcoreapp3.1\StategyPatternExercise.AssemblyInfo.cs
+C:\Users\Admin\Desktop\StategyPatternExercise\StategyPatternExercise\obj\Debug\netcoreapp3.1\StategyPatternExercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\StategyPatternExercise\StategyPatternExercise\obj\Debug\netcoreapp3.1\StategyPatternExercise.dll
+C:\Users\Admin\Desktop\StategyPatternExercise\StategyPatternExercise\obj\Debug\netcoreapp3.1\StategyPatternExercise.pdb
+C:\Users\Admin\Desktop\StategyPatternExercise\StategyPatternExercise\obj\Debug\netcoreapp3.1\StategyPatternExercise.genruntimeconfig.cache
